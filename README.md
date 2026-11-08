@@ -1,22 +1,17 @@
-# David Yanes
+# ¡Hola! Soy David 👋
 
-Desarrollador web en formación, centrado en crear experiencias digitales modernas, rápidas y cuidadas.
+Estoy estudiando Desarrollo de Aplicaciones Web y, mientras aprendo, voy creando proyectos con los que probar ideas nuevas. Me gusta que una web no solo se vea bien, sino que también se sienta bien al usarla.
 
-## Proyecto destacado
+Ahora mismo trabajo sobre todo con Astro, HTML, CSS y JavaScript.
 
-### [Portafolio David Yanes](https://portafoliodavidyanes.pages.dev/)
+## Mi portafolio
 
-Portafolio desarrollado con Astro, animaciones de interfaz y previsualizaciones interactivas de proyectos reales.
+Aquí voy reuniendo los proyectos que hago, tanto los personales como los que nacen de una idea real.
 
-- [Ver el portafolio en producción](https://portafoliodavidyanes.pages.dev/)
-- [Explorar el código](https://github.com/davidyaness-design/PortafolioDavidYanes)
+→ [Ver el portafolio](https://portafoliodavidyanes.pages.dev/)
 
-## Actualmente
+En él puedes ver el código de la web y el proyecto de las Fiestas de El Pardo, entre otros que iré añadiendo poco a poco.
 
-- Cursando Desarrollo de Aplicaciones Web.
-- Construyendo proyectos con Astro, HTML y CSS.
-- Disponible para colaborar en productos web y experiencias digitales.
+→ [Ver el repositorio del portafolio](https://github.com/davidyaness-design/PortafolioDavidYanes)
 
----
-
-[GitHub](https://github.com/davidyaness-design) · [Portafolio](https://portafoliodavidyanes.pages.dev/)
+Gracias por pasarte por aquí.
