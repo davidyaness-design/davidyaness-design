@@ -1,16 +1,22 @@
-## Hi there 👋
+# David Yanes
 
-<!--
-**davidyaness-design/davidyaness-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web en formación, centrado en crear experiencias digitales modernas, rápidas y cuidadas.
 
-Here are some ideas to get you started:
+## Proyecto destacado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Portafolio David Yanes](https://portafoliodavidyanes.pages.dev/)
+
+Portafolio desarrollado con Astro, animaciones de interfaz y previsualizaciones interactivas de proyectos reales.
+
+- [Ver el portafolio en producción](https://portafoliodavidyanes.pages.dev/)
+- [Explorar el código](https://github.com/davidyaness-design/PortafolioDavidYanes)
+
+## Actualmente
+
+- Cursando Desarrollo de Aplicaciones Web.
+- Construyendo proyectos con Astro, HTML y CSS.
+- Disponible para colaborar en productos web y experiencias digitales.
+
+---
+
+[GitHub](https://github.com/davidyaness-design) · [Portafolio](https://portafoliodavidyanes.pages.dev/)
